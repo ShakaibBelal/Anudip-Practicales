@@ -1,0 +1,27 @@
+Code maintainance?
+-> Easier to manage 
+
+What is inheritance?
+-> Inheritance Is a mechanism in java by which 1 class aquires the properties and behaviours of another class . 
+
+Why use Inheritance ?
+-> I)  Reusability(Avoid duplication of code)
+    II) Extencability(you can add new feature to a exsisting class.
+ 
+Single Level Inheritance ?
+->	1 Base Class,1 Extended Class.
+
+What is polymorphism ?
+ I)polymorphism is one of the core concept of oop.
+ II)it allows object to take many forms.
+ III) Poly means many ,and morph means forms. 
+
+Types of polymorphism
+
+I)Compliletime,
+    its is alaso known as static binding and method overloading 
+    complie time polymorphism is achieved by mehod overloading
+    method resolution happend at compile time
+    
+    benifists of polymorphism:
+

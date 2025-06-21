@@ -1,0 +1,47 @@
+Code maintainance?
+-> Easier to manage 
+
+What is inheritance?
+-> Inheritance Is a mechanism in java by which 1 class aquires the properties and behaviours of another class . 
+
+Why use Inheritance ?
+-> I)  Reusability(Avoid duplication of code)
+    II) Extencability(you can add new feature to a exsisting class.
+ 
+Single Level Inheritance ?
+->	1 Base Class,1 Extended Class.
+
+What is polymorphism ?
+ I)polymorphism is one of the core concept of oop.
+ II)it allows object to take many forms.
+ III) Poly means many ,and morph means forms. 
+
+Types of polymorphism
+
+I)Compliletime,
+    its is alaso known as static binding and method overloading 
+    complie time polymorphism is achieved by mehod overloading
+    method resolution happened at compile time
+    
+    benifists of polymorphism:
+
+Definition abstract class: It can not be instantiated. It contains both abstract and non abstract method.
+Definition Interface: It specifies a set of methods a class must implements. Methods are abstract by default.
+
+Implementation method of abstract class: It can have both implemented and abstract method.
+Implementation method of interface : Method are abstract by default. for java 8+ it can have default and static method.
+
+Inheritance:
+i)Abstract class: Class can inherit from only 1 abstract class.
+ii)Interface: A class can implement multiple interfaces
+
+Access Modifiers: 
+
+Abstract: Methods and properties can have any access modifiers.(Public, protected, private).
+Interface: Method and properties are implicitly public.
+
+Variables:
+ Abstract: It can have member variables(Final, Non final, static, non-static 
+ Interfaces: Variable are implicitly public static and final  
+ 
+Final: In Java Final keyword is a modifier that can be used with variable, methods, classes and it has different meaning depending on the context. 
